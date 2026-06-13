@@ -118,7 +118,7 @@ Open an issue or send a PR. No CLA, no bureaucracy.
 
 ## License
 
-MIT — see `LICENSE`.
+GPL-2.0 — see `LICENSE`.
 
 ---
 

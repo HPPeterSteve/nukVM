@@ -1,6 +1,7 @@
 # nukVM — storage microkernel
 
-<img width="1188" height="648" alt="image" src="https://github.com/user-attachments/assets/95fb6a79-8a65-4041-b4e4-7759c5918360" />
+<img width="1156" height="497" alt="image" src="https://github.com/user-attachments/assets/7b0b7626-b641-4411-ae86-8805ee16a9bc" />
+
 
 
 > A bare-metal storage microkernel that bridges an isolated kernel and the Linux host via a lightweight driver — built from scratch in Assembly and C.
